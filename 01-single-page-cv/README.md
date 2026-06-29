@@ -1,1 +1,0 @@
-This is the solution for https://roadmap.sh/projects/single-page-cv
